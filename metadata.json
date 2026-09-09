@@ -1,0 +1,10 @@
+{
+  "name": "Scribo AI",
+  "description": "On-Device AI Co-Pilot for live lecture transcription, word-synced audio scrubbing, Socratic voice tutoring, dual-layer assessments, and classroom operations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
